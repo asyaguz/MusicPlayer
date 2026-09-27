@@ -11,7 +11,6 @@
   <ItemGroup>
     <Folder Include="Library\" />
     <Folder Include="Players\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
